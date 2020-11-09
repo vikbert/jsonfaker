@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Principle in family",
+      "author": "Louisa May Alcott",
+      "cover": "",
+      "about": "Sisters learn to live in gratitude for each other.",
+      "createdAt": 1604926229789,
+      "variation": 0
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "clean the workroom",
+      "completed": false,
+      "note": "",
+      "createdAt": 1604926229789
+    }
+  ]
+}
